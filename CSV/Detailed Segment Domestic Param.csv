@@ -1,0 +1,115 @@
+Year,origin,production_format,Revenue,ARPU,Project_Count
+2004,Domestic,Feature Film,39800000,3061538,13
+2004,Domestic,Television Series ,358200000,4776000,75
+2004,Domestic,"Television Movies, Mini-series, Specials, Pilot",50200000,1287179,39
+2004,Foreign,Feature Film,331300000,25484615,13
+2004,Foreign,"Television Movies, Mini-series, Specials, Pilot",101800000,4847619,21
+2004,Foreign,Television Series ,53200000,13300000,4
+2005,Domestic,Television Series ,279500000,3828767,73
+2005,Domestic,"Television Movies, Mini-series, Specials, Pilot",82600000,1501818,55
+2005,Domestic,Feature Film,113000000,5136364,22
+2005,Foreign,"Television Movies, Mini-series, Specials, Pilot",80400000,5742857,14
+2005,Foreign,Feature Film,317400000,14427273,22
+2005,Foreign,Television Series ,60900000,12180000,5
+2006,Domestic,"Television Movies, Mini-series, Specials, Pilot",98300000,1310667,75
+2006,Domestic,Feature Film,118400000,3482353,34
+2006,Domestic,Television Series ,332700000,3429897,97
+2006,Foreign,Feature Film,218200000,15585714,14
+2006,Foreign,"Television Movies, Mini-series, Specials, Pilot",45400000,4540000,10
+2006,Foreign,Television Series ,75200000,9400000,8
+2007,Domestic,"Television Movies, Mini-series, Specials, Pilot",96900000,1615000,60
+2007,Domestic,Feature Film,75700000,3028000,25
+2007,Domestic,Television Series ,326000000,4126582,79
+2007,Foreign,Television Series ,16100000,2683333,6
+2007,Foreign,Feature Film,224900000,16064286,14
+2007,Foreign,"Television Movies, Mini-series, Specials, Pilot",51500000,3433333,15
+2008,Domestic,Television Series ,453500000,3570866,127
+2008,Domestic,"Television Movies, Mini-series, Specials, Pilot",64500000,1112069,58
+2008,Domestic,Feature Film,26600000,1773333,15
+2008,Foreign,Television Series ,16000000,3200000,5
+2008,Foreign,Feature Film,79000000,8777778,9
+2008,Foreign,"Television Movies, Mini-series, Specials, Pilot",31600000,3511111,9
+2009,Domestic,Television Series ,488300000,4606604,106
+2009,Domestic,"Television Movies, Mini-series, Specials, Pilot",86800000,1377778,63
+2009,Domestic,Feature Film,99200000,3542857,28
+2009,Foreign,"Television Movies, Mini-series, Specials, Pilot",52300000,4023077,13
+2009,Foreign,Feature Film,161800000,17977778,9
+2009,Foreign,Television Series ,58000000,9666667,6
+2010,Domestic,"Television Movies, Mini-series, Specials, Pilot",115600000,1993103,58
+2010,Domestic,Television Series ,467900000,4499038,104
+2010,Domestic,Feature Film,62600000,3130000,20
+2010,Foreign,Feature Film,159300000,7965000,20
+2010,Foreign,"Television Movies, Mini-series, Specials, Pilot",39900000,3325000,12
+2010,Foreign,Television Series ,119000000,7437500,16
+2011,Domestic,"Television Movies, Mini-series, Specials, Pilot",59500000,1043860,57
+2011,Domestic,Feature Film,165900000,5925000,28
+2011,Domestic,Television Series ,626700000,4642222,135
+2011,Foreign,Feature Film,231600000,15440000,15
+2011,Foreign,"Television Movies, Mini-series, Specials, Pilot",31100000,2221429,14
+2011,Foreign,Television Series ,150200000,11553846,13
+2012,Domestic,"Television Movies, Mini-series, Specials, Pilot",50600000,872414,58
+2012,Domestic,Feature Film,123100000,3419444,36
+2012,Domestic,Television Series ,698200000,4987143,140
+2012,Foreign,"Television Movies, Mini-series, Specials, Pilot",27600000,3066667,9
+2012,Foreign,Television Series ,270600000,15033333,18
+2012,Foreign,Feature Film,106300000,8858333,12
+2013,Domestic,"Television Movies, Mini-series, Specials, Pilot",60000000,869565,69
+2013,Domestic,Television Series ,581000000,4965812,117
+2013,Domestic,Feature Film,134100000,4624138,29
+2013,Foreign,"Television Movies, Mini-series, Specials, Pilot",28700000,2609091,11
+2013,Foreign,Television Series ,246200000,10704348,23
+2013,Foreign,Feature Film,97700000,6513333,15
+2014,Domestic,Television Series ,639700000,5037008,127
+2014,Domestic,"Television Movies, Mini-series, Specials, Pilot",44700000,732787,61
+2014,Domestic,Feature Film,105700000,2458140,43
+2014,Foreign,"Television Movies, Mini-series, Specials, Pilot",45100000,3006667,15
+2014,Foreign,Feature Film,139300000,9286667,15
+2014,Foreign,Television Series ,319300000,12280769,26
+2015,Domestic,Feature Film,57100000,2114815,27
+2015,Domestic,"Television Movies, Mini-series, Specials, Pilot",63400000,990625,64
+2015,Domestic,Television Series ,641400000,5676106,113
+2015,Foreign,Feature Film,209100000,7467857,28
+2015,Foreign,Television Series ,465700000,10584091,44
+2015,Foreign,"Television Movies, Mini-series, Specials, Pilot",88200000,3392308,26
+2016,Domestic,Feature Film,69700000,2581481,27
+2016,Domestic,Television Series ,684500000,5704167,120
+2016,Domestic,"Television Movies, Mini-series, Specials, Pilot",88400000,1148052,77
+2016,Foreign,Television Series ,514000000,16580645,31
+2016,Foreign,"Television Movies, Mini-series, Specials, Pilot",91000000,3640000,25
+2016,Foreign,Feature Film,242400000,10539130,23
+2017,Domestic,"Television Movies, Mini-series, Specials, Pilot",69600000,915789,76
+2017,Domestic,Television Series ,622700000,5189167,120
+2017,Domestic,Feature Film,80600000,2121053,38
+2017,Foreign,Feature Film,121900000,5300000,23
+2017,Foreign,"Television Movies, Mini-series, Specials, Pilot",46300000,3561538,13
+2017,Foreign,Television Series ,653300000,12326415,53
+2018,Domestic,Feature Film,132100000,2642000,50
+2018,Domestic,Television Series ,645200000,5467797,118
+2018,Domestic,"Television Movies, Mini-series, Specials, Pilot",69900000,1127419,62
+2018,Foreign,"Television Movies, Mini-series, Specials, Pilot",95600000,4552381,21
+2018,Foreign,Feature Film,231800000,7726667,30
+2018,Foreign,Television Series ,715900000,16648837,43
+2019,Domestic,"Television Movies, Mini-series, Specials, Pilot",85100000,989535,86
+2019,Domestic,Feature Film,144000000,2482759,58
+2019,Domestic,Television Series ,815700000,6971795,117
+2019,Foreign,"Television Movies, Mini-series, Specials, Pilot",127100000,5777273,22
+2019,Foreign,Feature Film,46100000,4190909,11
+2019,Foreign,Television Series ,946900000,19324490,49
+2020,Domestic,"Television Movies, Mini-series, Specials, Pilot",70600000,1217241,58
+2020,Domestic,Television Series,511200000,6726316,76
+2020,Domestic,Feature Film ,113100000,2692857,42
+2020,Foreign,Feature Film,189200000,14553846,13
+2020,Foreign,Television Series,519800000,17924138,29
+2020,Foreign,"Television Movies, Mini-series, Specials, Pilot",93400000,6671429,14
+2021,Domestic,Television Series,707200000,6149565,115
+2021,Domestic,"Television Movies, Mini-series, Specials, Pilot",142900000,1323148,108
+2021,Domestic,Feature Film,115300000,2260784,51
+2021,Foreign,Television Series,1584300000,20575325,77
+2021,Foreign,Feature Film,161800000,7704762,21
+2021,Foreign,"Television Movies, Mini-series, Specials, Pilot",169600000,7709091,22
+2022,Domestic,Television Series,891500000,5751613,155
+2022,Domestic,Feature Film,161500000,3105769,52
+2022,Domestic,"Television Movies, Mini-series, Specials, Pilot",148900000,1366055,109
+2022,Foreign,Feature Film,226400000,12577778,18
+2022,Foreign,"Television Movies, Mini-series, Specials, Pilot",61900000,4126667,15
+2022,Foreign,Television Series,1660500000,23721429,70
