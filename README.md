@@ -8,7 +8,7 @@
    - [Domestic vs Foreign Markets](##Domestic-vs-Foreign_Markets)
    - [OFTTC Tax Credit](##OFTTC-Tax-Credit)
  - [Recomendations](#Recommendations)
- - [Clarifying Questions and Assumptions](##Clarifying-Questions-and-Assumptions)
+ - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
 
 # **Project Background:**<br/>
 Ontario releases publically accessible statistics on the filming industry revenue and tax credit. In this exploration, I am extracting insights and making recommendations to improve provincial revenue from filming segments.<br/>
@@ -81,9 +81,9 @@ Increase domestic project growth for Television series.<br/>
   -	Continue OFTTC Tax Credit.
     -	It helps subsidize a portion of the service cost for new pilot project, securing a strong domestic TV pilot -> series pipeline. This will consequently improve revenue by seeding for the higher margin segment.
     -	Also preserves talent in province, which makes it competitive for foreign projects.<br/>
- ***
-##**Clarifying Questions and Assumptions:**
-###**Clarifying Questions**
+ *** 
+# **Clarifying Questions and Assumptions:**
+### **Clarifying Questions**
 -	[Type_of_Production]
     - Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/>
     - What is "Television Movies, Short Series, pilot" condensed
