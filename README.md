@@ -32,13 +32,13 @@ Ontario releases publically accessible statistics on the filming industry revenu
 # **Insights:** <br/>
 
 ## **Revenue and Growth:** <br/>
-- Television Series revenue is $2,555M. It is up 260% (+1583M) since 2012, an average increase of 16%. Revenue share has grown by 5% over the last decade, accounting for 81% of all filming revenue.
+- Television Series revenue is $2,555M. It is up 260% (+$1583M) since 2012, an average increase of 16%. Revenue share has grown by 5% over the last decade, accounting for 81% of all filming revenue.
 -	Feature Film revenue is up an average 10% since 2012, representing a recovery from a weak 2012 and 2017. Overall revenue is still relatively stagnant remaining around or below the same $200M-$400M revenue mark since 2005.
 -	Feature Film average revenue per project (ARPU) fell an average 2% from 2012-2019. Although it has rebound since 2019, including an abnormal record 2020 year ($17M per project).
 -	Feature film seems recent growth in foreign project has however greatly displaced the impact of declining domestic projects.
 - Television Movies & Co. leads new projects growth at an average 9.9% growth since 2012. Television Series trails at 7% and feature films at 5.6%.
 - Television Movies & Co. revenue is up an average 17% since 2012. Combined with a weak Feature Film has led to matching revenues in 2019 and 2021.
-- Both Television segments have had revenue grew at an average 16%-17% since 2012.  Although average project value for Television Movie & Co. remain relatively low ($1M-$2M per project), limiting its decade revenue increase to 135M 
+- Both Television segments have had revenue grew at an average 16%-17% since 2012.  Although average project value for Television Movie & Co. remain relatively low ($1M-$2M per project), limiting its decade revenue increase to $135M 
 
 ![image](https://github.com/user-attachments/assets/6baee162-de17-4b27-b0b0-56e083a4ea28)
 
@@ -77,7 +77,7 @@ Explore why ARPU for Television Movies & Co. is low.<br/>
   -	Further explore individual composition of Television Movies & Co. 
       -	Track how pilot television episodes pipeline is affecting revenue, and what the conversion rate to full series is?<br/>
 ***    
-Increase domestic project growth for Television series.<br/>
+Increase domestic project growth for Television Series.<br/>
   -	Continue OFTTC Tax Credit.
     -	It helps subsidize a portion of the service cost for new pilot project, securing a strong domestic TV pilot -> series pipeline. This will consequently improve revenue by seeding for the higher margin segment.
     -	Also preserves talent in province, which makes it competitive for foreign projects.<br/>
