@@ -1,4 +1,4 @@
-# Ontario Film Dashboard (2012-2022)
+# Ontario Film Dashboard
 # **Table of Contents:**
  - [Project Background](#Project-Background)
  - [Executive Summary](#Executive=Summary)
