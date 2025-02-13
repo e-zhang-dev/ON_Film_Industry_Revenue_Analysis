@@ -11,7 +11,7 @@
  - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
 
 # **Project Background:**<br/>
-Ontario releases publically accessible statistics on the filming industry revenue and tax credit. In this exploration, I am extracting insights and making recommendations to improve provincial revenue from filming segments.<br/>
+Ontario releases publically accessible statistics on the filming industry revenue and OFTTC tax credit. In this exploration, I am extracting insights and making recommendations to improve provincial revenue from filming segments.<br/>
 
 # **Executive Summary:** <br/>
 -	Television Series revenue hit a record $2522M and project growth up an average 7%. Foreign project tend to have higher value, while domestic projects have high volume. Continued investment into the domestic market and services will keep revenues high, and increase competitiveness for new foreign projects.
