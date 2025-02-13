@@ -84,16 +84,16 @@ Increase domestic project growth for Television series.<br/>
  *** 
 # **Clarifying Questions and Assumptions:**
 ### **Clarifying Questions**
--	[Type_of_Production]
-  -	Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/>
-  - What is "Television Movies, Short Series, pilot" condensed
-  - Is there a potential groouping relationship between Television pilots and Television Series?
-- [Type_of_Production] and [Domestic_or_Foreign]
-  - What degree of seperation is foreign delineation seperated at?
-- [Production $ Left in Ontario]
-   -	What type of services and incentive does this cover?
-   -	How is spending at difference services recorded?
- 
+ -	[Type_of_Production]
+    - Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/>
+    - What is "Television Movies, Short Series, pilot" condensed
+    - Is there a potential groouping relationship between Television pilots and Television Series?
+ + [Type_of_Production] and [Domestic_or_Foreign]
+    - What degree of seperation is foreign delineation seperated at?
+ * [Production $ Left in Ontario]
+    -	What type of services and incentive does this cover?
+    -	How is spending at difference services recorded?
+  
 ### **Assumptions:** <br/> 
 - Television Movies and Co. is comprised of many different sub industries within the television industry.
     - Earning will vary from one to another, where short film may produce more revenue than pilot programs. <br/>
