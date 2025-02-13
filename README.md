@@ -1,9 +1,19 @@
 # Ontario Film Dashboard (2012-2022)
+# **Table of Contents:**
+ - [Project Background](#Project-Background)
+ - [Executive Summary](#Executive=Summary)
+ - [North Star Metrics and Dimensions](#North-Star-Metrics-and-Dimensions)
+ - [Insights](#Insight)
+   - [Revenue and Growth](##Revenue-and-Growth)
+   - [Domestic vs Foreign Markets](##Domestic-vs-Foreign_Markets)
+   - [OFTTC Tax Credit](##OFTTC-Tax-Credit)
+ - [Recomendations](#Recommendations)
+ - [Clarifying Questions and Assumptions](##Clarifying-Questions-and-Assumptions)
 
-## **Project Background:**<br/>
+# **Project Background:**<br/>
 Ontario releases publically accessible statistics on the filming industry revenue and tax credit. In this exploration, I am extracting insights and making recommendations to improve provincial revenue from filming segments.<br/>
 
-## **Executive Summary:** <br/>
+# **Executive Summary:** <br/>
 -	Television Series revenue hit a record $2522M and project growth up an average 7%. Foreign project tend to have higher value, while domestic projects have high volume. Continued investment into the domestic market and services will keep revenues high, and increase competitiveness for new foreign projects.
 -	Feature Film revenue is up an 83% since pandemic. Although slower new project growth (5.6%) and struggling per project revenue caused total revenue share to drop 6% since 2012.  Increased revenues remain challenging as domestic new project fell 10% post-pandemic. There is reinforcement by an increase in foreign projects (+63%) and increasing per project revenue. Further service investments and incentives are recommended to bolster domestic markets and increase project growth.
 -	Television Movies & Co. (TV Movies, Short series, Pilot) is up an average 17% and leads new project growth at an average 9.9%. It is high volume but low in value segment. Earnings are dictated by a strong domestic market, with 88% of new projects being domestic in 2022. 
@@ -19,9 +29,9 @@ Ontario releases publically accessible statistics on the filming industry revenu
 - **Plan Region:** Domestic and Foreign
 
 
-## **Insights:** <br/>
+# **Insights:** <br/>
 
-### **Revenue and Growth:** <br/>
+## **Revenue and Growth:** <br/>
 - Television Series revenue is $2,555M. It is up 260% (+1583M) since 2012, an average increase of 16%. Revenue share has grown by 5% over the last decade, accounting for 81% of all filming revenue.
 -	Feature Film revenue is up an average 10% since 2012, representing a recovery from a weak 2012 and 2017. Overall revenue is still relatively stagnant remaining around or below the same $200M-$400M revenue mark since 2005.
 -	Feature Film average revenue per project (ARPU) fell an average 2% from 2012-2019. Although it has rebound since 2019, including an abnormal record 2020 year ($17M per project).
@@ -33,7 +43,7 @@ Ontario releases publically accessible statistics on the filming industry revenu
 ![image](https://github.com/user-attachments/assets/6baee162-de17-4b27-b0b0-56e083a4ea28)
 
 
-### **Domestic vs Foreign Customers**
+## **Domestic vs Foreign Markets**
 -	Television Series’ are primary revenue drivers for both domestic and foreign market, it accounts for 70-80% of their respective total revenues.
 -	Television series foreign revenues soared to $1600M up to 75% due to increases in average revenue and project count.
 - Television Series domestic revenue only grew 9% to $892M despite new project growth due to limited average revenue growth.
@@ -44,7 +54,7 @@ Ontario releases publically accessible statistics on the filming industry revenu
 ![image](https://github.com/user-attachments/assets/c47c2f05-4aaf-4c56-bb14-87af0e664e76)
 
 
-### **OFTTC Tax Credit**
+## **OFTTC Tax Credit**
 -	Domestic Revenues reached a total $1202M with an average 6% growth rate. While OFTTC is estimated to have paid 187M in tax credits, with an 8.8% average growth rate. <br/>
 *	Television Series provide net average revenue of $4.9M per project. Feature Film average $1.7M per project. Television Movies & Co. has an average net revenue $105K per project. <br/>
 +	Television Movies & Co had a per project loss of $155K in 2017 due to lower average revenue,  2020 pandemic year loss of $245K(-$12M total) due to low volume of projects. <br/>
@@ -53,33 +63,38 @@ Ontario releases publically accessible statistics on the filming industry revenu
 ![image](https://github.com/user-attachments/assets/4f56eb5f-0918-424c-b8e4-b16c8dd8b345)
 
  
-## **Recommendations:**<br/>
-
+# **Recommendations:**<br/>
+***
 Increasing new project growth of feature films.<br/>
   -	Grow domestic appetite for local feature films. <br/>
       -	Grow sales channels for domestic movies, as to increase visibility and profitability of local feature films. <br/>
-      
+***     
 Attracting foreign new projects.<br/>
   -	Build out services that improve foreign outreach.
       - Invest in services that compliment potential strategic partnership with foreign firms. Helps facilitate more foreign awareness and knowledge transfer.<br/>
-      
+***      
 Explore why ARPU for Television Movies & Co. is low.<br/>
   -	Further explore individual composition of Television Movies & Co. 
       -	Track how pilot television episodes pipeline is affecting revenue, and what the conversion rate to full series is?<br/>
-      
+***    
 Increase domestic project growth for Television series.<br/>
   -	Continue OFTTC Tax Credit.
     -	It helps subsidize a portion of the service cost for new pilot project, securing a strong domestic TV pilot -> series pipeline. This will consequently improve revenue by seeding for the higher margin segment.
     -	Also preserves talent in province, which makes it competitive for foreign projects.<br/>
-    
-## **Questions**
+ ***
+##**Clarifying Questions and Assumptions:**
+###**Clarifying Questions**
 -	[Type_of_Production]
-    -	Why is there a large revenue disparity so between television sections?<br/>
-    - Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/> 
+    - Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/>
+    - What is "Television Movies, Short Series, pilot" condensed
+    - Is there a potential groouping relationship between Television pilots and Television Series?
 - [Type_of_Production] and [Domestic_or_Foreign]
-    -	How do production segments compare by origin?<br/>
-
-## **Assumptions:** <br/> 
+    -What degree of seperation is foreign delineation seperated at?<br/>
+- [Production $ Left in Ontario]
+    -	What type of services and incentive does this cover?<br/>\
+    -	How is spending at difference services recorded?
+ 
+### **Assumptions:** <br/> 
 - Television Movies and Co. is comprised of many different sub industries within the television industry.
     - Earning will vary from one to another, where short film may produce more revenue than pilot programs. <br/>
 - Revenue composition from Ontario collected from incentives and services.
