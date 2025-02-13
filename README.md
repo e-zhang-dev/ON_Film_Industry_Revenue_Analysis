@@ -68,7 +68,7 @@ Explore why ARPU for Television Movies & Co. is low.<br/>
       -	Track how pilot television episodes pipeline is affecting revenue, and what the conversion rate to full series is?<br/>
       
 Increase domestic project growth for Television series.<br/>
-  -	Continue OFTTC incentive.
+  -	Continue OFTTC Tax Credit.
     -	It helps subsidize a portion of the service cost for new pilot project, securing a strong domestic TV pilot -> series pipeline. This will consequently improve revenue by seeding for the higher margin segment.
     -	Also preserves talent in province, which makes it competitive for foreign projects.<br/>
     
