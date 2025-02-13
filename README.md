@@ -14,10 +14,10 @@
 Ontario releases publically accessible statistics on the filming industry revenue and OFTTC tax credit. In this exploration, I am extracting insights and making recommendations to improve provincial revenue from filming segments.<br/>
 
 # **Executive Summary:** <br/>
--	Television Series revenue hit a record $2522M and project growth up an average 7%. Foreign project tend to have higher value, while domestic projects have high volume. Continued investment into the domestic market and services will keep revenues high, and increase competitiveness for new foreign projects.
--	Feature Film revenue is up an 83% since pandemic. Although slower new project growth (5.6%) and struggling per project revenue caused total revenue share to drop 6% since 2012.  Increased revenues remain challenging as domestic new project fell 10% post-pandemic. There is reinforcement by an increase in foreign projects (+63%) and increasing per project revenue. Further service investments and incentives are recommended to bolster domestic markets and increase project growth.
+-	Television Series revenue have improved due to higher value foreign projects and new project growth (7%). This lead to record high revenue at $2550M accounting for 81% of total revenue. Continued investment into the domestic market and services will keep domestic revenues high, and increase competitiveness for new foreign projects.
+-	Feature Film revenue is up 83% since pandemic. Although slower new project growth (5.6%) and struggling per project revenue caused total revenue share to fall 6% since 2012.  Domestic revenue challenges loom as domestic new project counts fell 10% post-pandemic. Although this has been offset by an increase in foreign projects (+63%) and rising per project revenue. Further service investments and incentives are recommended to bolster domestic markets and increase project growth.
 -	Television Movies & Co. (TV Movies, Short series, Pilot) is up an average 17% and leads new project growth at an average 9.9%. It is high volume but low in value segment. Earnings are dictated by a strong domestic market, with 88% of new projects being domestic in 2022. 
--	OFTTC tax credit is in a financially strong position. Both Television Series and Feature Film provide high margin returns. Margins are thin for Television movies & co., but are sustainable with fortification by high project count television series. <br/>
+-	OFTTC tax credit is in a financially strong position. Both Television Series and Feature Film provide high margin returns (avg $1.7M-$5M). Although, Margins are thin for Television Movies & Co at an avg $155k. It is sustainable with fortification from Television Series' high project count. <br/>
 
  
 ## **North Star Metrics and Dimensions** <br/>
