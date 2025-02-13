@@ -86,8 +86,7 @@ Increase domestic project growth for Television series.<br/>
 ### **Clarifying Questions**
  -	[Type_of_Production]
     - Is there a complimentary relationship between ‘Television Movies, Short Series, pilot’ and “Television Series’?<br/>
-    - What is "Television Movies, Short Series, pilot" condensed
-    - Is there a potential groouping relationship between Television pilots and Television Series?
+    - How do Feature Films and Television Movies differ?
  + [Type_of_Production] and [Domestic_or_Foreign]
     - What degree of seperation is foreign delineation seperated at?
  * [Production $ Left in Ontario]
