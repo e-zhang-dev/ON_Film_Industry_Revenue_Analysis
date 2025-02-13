@@ -89,9 +89,9 @@ Increase domestic project growth for Television series.<br/>
     - What is "Television Movies, Short Series, pilot" condensed
     - Is there a potential groouping relationship between Television pilots and Television Series?
 - [Type_of_Production] and [Domestic_or_Foreign]
-    -What degree of seperation is foreign delineation seperated at?<br/>
+    -What degree of seperation is foreign delineation seperated at?
 - [Production $ Left in Ontario]
-    -	What type of services and incentive does this cover?<br/>\
+    -	What type of services and incentive does this cover?
     -	How is spending at difference services recorded?
  
 ### **Assumptions:** <br/> 
