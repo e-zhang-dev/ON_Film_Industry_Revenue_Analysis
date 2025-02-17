@@ -2,11 +2,11 @@
 # **Table of Contents:**
  - [Project Background](#Project-Background)
  - [Executive Summary](#Executive=Summary)
- - [North Star Metrics and Dimensions](#North-Star-Metrics-and-Dimensions)
- - [Insights](#Insight)
-   - [Revenue and Growth](##Revenue-and-Growth)
-   - [Domestic vs Foreign Markets](##Domestic-vs-Foreign_Markets)
-   - [OFTTC Tax Credit](##OFTTC-Tax-Credit)
+ - [North Star Metrics and Dimensions](#north-star-metrics-and-dimensions-)
+ - [Insights](#insights-)
+   - [Revenue and Growth](#revenue-and-growth-)
+   - [Domestic vs Foreign Markets](#domestic-vs-foreign-markets)
+   - [OFTTC Tax Credit](#ofttc-tax-credit)
  - [Recommendations](#Recommendations)
  - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
 
