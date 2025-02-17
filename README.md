@@ -7,7 +7,7 @@
    - [Revenue and Growth](##Revenue-and-Growth)
    - [Domestic vs Foreign Markets](##Domestic-vs-Foreign_Markets)
    - [OFTTC Tax Credit](##OFTTC-Tax-Credit)
- - [Recomendations](#Recommendations)
+ - [Recommendations](#Recommendations)
  - [Clarifying Questions and Assumptions](#Clarifying-Questions-and-Assumptions)
 
 # **Project Background:**<br/>
